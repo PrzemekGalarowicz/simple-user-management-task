@@ -1,4 +1,6 @@
-# football-team
+# User management task
+
+This is a simple user management project. Please notice, that some of the libraries, that I've used may not be necessary. But I've wanted to show, that I know how to use as many tools as I could. Also, the API is a fake API. I used this one: https://reqres.in/
 
 ## Project setup
 ```
