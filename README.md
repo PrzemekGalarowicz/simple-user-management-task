@@ -1,4 +1,4 @@
-# Simple User Management
+# Simple User Management Task
 
 This is a simple user management project. Please notice that some of the libraries I've used may be optional. But I wanted to show I can use as many tools as possible. Also, the API is a fake API. I used this one: https://reqres.in/
 
