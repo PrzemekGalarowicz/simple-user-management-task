@@ -1,6 +1,6 @@
 # Simple User Management
 
-This is a simple user management project. Please notice, that some of the libraries, that I've used may not be necessary. But I've wanted to show, that I know how to use as many tools as I could. Also, the API is a fake API. I used this one: https://reqres.in/
+This is a simple user management project. Please notice that some of the libraries I've used may be optional. But I wanted to show I can use as many tools as possible. Also, the API is a fake API. I used this one: https://reqres.in/
 
 ## Project setup
 ```
